@@ -1,0 +1,16 @@
+.venv/
+venv/
+
+.env
+.env.*
+
+__pycache__/
+*.py[cod]
+
+chat_history.json
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
